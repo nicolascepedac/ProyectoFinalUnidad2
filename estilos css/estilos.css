@@ -1,0 +1,72 @@
+.main_header{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: rgb(123, 231, 60);
+    font-size: 23px;
+    font-family: Segoe print;
+    text-align: center;
+    margin-top: -8px;
+    
+    }
+    
+    .iconoeconomia{
+        background: rgb(123, 231, 60);
+        margin: auto;
+        text-align: center;
+        padding-top: 15px;
+        margin-top: -12px;
+    
+    }
+    
+    .h2{
+    font-size: 70px;
+    font-family: Britannic Bold;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background: rgb(123, 231, 60);
+    text-align: center;
+    
+    
+    }
+    
+    .h6{
+        background: rgb(123, 231, 60) ;
+    }
+    
+    
+    
+    
+    .menú ul{
+     
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+    padding: 20px;
+    /* align-items - alinea todo */
+     /* flex start - todo a la izquierda */
+     /* flex end - todo a la derecha */
+     /* space around - espacio alrededor de ellas */
+     /* space between - espacio entre ellas */
+     /* flex wrap */
+    
+    }
+    
+    .menú li{
+        padding-left: 30px;
+        padding-top: 15px
+    }
+    
+    .menú li a:hover{
+        color: rgb(24, 24, 24);
+        text-decoration: overline;
+    }
+    
+    .menú li a{
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+        color: blanchedalmond;
+    
+    }

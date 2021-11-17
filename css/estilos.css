@@ -1,0 +1,113 @@
+
+.body{
+    background: rgb(241, 241, 196);
+}
+
+.icono{
+    width: 100%;
+    height: 320px;
+    text-align: center;
+    align-items: center;
+    background: rgb(226, 208, 150);
+    background-attachment: fixed;
+    padding-top: 15px;
+}
+
+
+.main_header{
+    justify-content: space-around;
+    align-items: center;
+    font-family: segoe print;
+    font-size: 25px;
+    text-align: center;
+    background: rgb(226, 208, 150) ;
+    margin-top: -70px;
+}
+
+
+
+.titulo{
+    font-size: 55px;
+    font-family: Segoe Script;
+    padding: 0%;
+    margin: 0%;
+    color: rgb(65, 41, 21);
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: -30px;
+}
+
+.titulo2{
+    font-size: 45px;
+    font-family: Segoe Script;
+    padding: 0%;
+    margin: 0%;
+    color: rgb(65, 41, 21);
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 25px;
+}
+
+.titulo3{
+    font-size: 45px;
+    font-family: Segoe Script;
+    padding: 0%;
+    margin: 0%;
+    color: rgb(65, 41, 21);
+    text-align: center;
+    padding-top: 30px;
+}
+
+.titulo4{
+    font-size: 45px;
+    font-family: Segoe Script;
+    padding: 0%;
+    margin: 0%;
+    color: rgb(65, 41, 21);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+
+
+
+/* align-items - alinea todo */
+ /* flex start - todo a la izquierda */
+ /* flex end - todo a la derecha */
+ /* space around - espacio alrededor de ellas */
+ /* space between - espacio entre ellas */
+ /* flex wrap */
+
+
+
+
+.menu{
+    background: rgb(226, 208, 150);
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: -10px;
+    display: flex;
+    color: #000;
+}
+
+
+.row{
+    align-items: flex-start;
+    justify-content: left;
+}
+
+.footer{
+    
+    width: 100%;
+    height: 600px;
+    text-align: end;
+    align-items: flex-end;
+    background: rgb(177, 161, 111);
+    background-attachment: fixed;
+    padding-top: 20px;
+
+}
+
+
